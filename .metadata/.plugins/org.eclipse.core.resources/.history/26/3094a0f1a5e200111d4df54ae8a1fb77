@@ -1,0 +1,60 @@
+package OrganizationTest;
+
+import java.io.IOException;
+
+import org.apache.poi.EncryptedDocumentException;
+import org.openqa.selenium.By;
+import org.testng.annotations.Listeners;
+import org.testng.annotations.Test;
+
+import com.crm.Vtiger.GenericLibrary.BaseClass;
+import com.crm.Vtiger.GenericLibrary.FileUtility;
+import com.crm.Vtiger.GenericLibrary.ITestListenerImplementation;
+
+import ObjectRepository.HomePage;
+import ObjectRepository.OrganizationPage;
+@Listeners(ITestListenerImplementation.class)
+public class organizationTests extends BaseClass {
+	@Test
+	public void clickOnOrganization() throws EncryptedDocumentException, IOException {
+		HomePage h=new HomePage(d);
+		h.getOrgLink().click();
+		OrganizationPage op=new OrganizationPage(d);
+		op.getPlusButton().click();
+		
+		FileUtility f=new FileUtility();
+		String name = f.readDataFromExcelString("OrganizationDetails", 1, 1);
+		op.getOrgName().sendKeys(name);
+		
+		String email = f.readDataFromExcelString("OrganizationDetails", 1, 2);
+		op.getEmailTbx().sendKeys(email);
+		
+		String billAdd = f.readDataFromExcelString("OrganizationDetails", 1, 3);
+		op.getBillstreetTxb().sendKeys(billAdd);
+		
+		String shipAdd = f.readDataFromExcelString("OrganizationDetails", 1, 4);
+		op.getShipstreetTxd().sendKeys(shipAdd);
+		
+		String billCity = f.readDataFromExcelString("OrganizationDetails", 1, 5);
+		op.getBillingCity().sendKeys(billCity);
+		
+		String shipCity = f.readDataFromExcelString("OrganizationDetails", 1, 6);
+		op.getShippingCity().sendKeys(shipCity);
+		
+		String billState = f.readDataFromExcelString("OrganizationDetails", 1, 7);
+		op.getBillingState().sendKeys(billState);
+		
+		String shipState= f.readDataFromExcelString("OrganizationDetails", 1, 8);
+		op.getShippingState().sendKeys(shipState);
+		
+		String billCode = f.readDataFromExcelString("OrganizationDetails", 1, 9);
+		op.getBillingPostalCode().sendKeys(billCode);
+		
+		String shipCode = f.readDataFromExcelString("OrganizationDetails", 1, 10);
+		op.getShippingPostalCode().sendKeys(shipCode);
+		
+		String description = f.readDataFromExcelString("OrganizationDetails", 1, 11);
+		op.getDescriptionAdd().sendKeys(description);
+		
+	}
+}

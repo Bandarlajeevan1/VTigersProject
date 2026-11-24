@@ -1,0 +1,409 @@
+2026-11-05 12:28:52.894: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-05 12:28:52.894: [INFO] Profiles total count: 1
+2026-11-05 12:28:52.894: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-11-05 12:28:52.894: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-05 12:28:52.894: [INFO] OnDoneLoading sync enabled: 0
+2026-11-05 12:28:52.894: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-05 12:28:52.894: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-05 12:28:52.894: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-05 12:36:07.327: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 11:37:01.811: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 11:37:01.811: [INFO] Profiles total count: 1
+2026-11-06 11:37:01.811: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-06 11:37:01.811: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 11:37:01.811: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-06 11:37:01.811: [INFO] OnDoneLoading sync enabled: 0
+2026-11-06 11:37:01.811: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-06 11:37:01.811: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-06 11:37:01.811: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 12:46:45.746: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 11:28:58.043: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 11:28:58.043: [INFO] Profiles total count: 1
+2026-11-12 11:28:58.043: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-12 11:28:58.043: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 11:28:58.043: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-12 11:28:58.043: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 11:28:58.043: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 11:28:58.043: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 11:28:58.043: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 12:43:53.139: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 16:01:57.860: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 16:01:57.860: [INFO] Profiles total count: 1
+2026-11-12 16:01:57.860: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-12 16:01:57.860: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 16:01:57.860: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-12 16:01:57.860: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 16:01:57.860: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 16:01:57.860: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 16:01:57.860: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 16:01:58.538: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 16:10:52.816: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 16:10:52.816: [INFO] Profiles total count: 1
+2026-11-12 16:10:52.816: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-12 16:10:52.816: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 16:10:52.816: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-12 16:10:52.816: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 16:10:52.816: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 16:10:52.816: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 16:10:52.816: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 16:10:57.092: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 16:11:23.984: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 16:11:23.984: [INFO] Profiles total count: 1
+2026-11-12 16:11:23.984: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-12 16:11:23.984: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 16:11:23.984: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-12 16:11:23.984: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 16:11:23.984: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 16:11:23.984: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 16:11:23.984: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 16:11:39.738: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 16:11:47.723: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 16:11:47.723: [INFO] Profiles total count: 1
+2026-11-12 16:11:47.724: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-12 16:11:47.724: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 16:11:47.724: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-12 16:11:47.724: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 16:11:47.724: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 16:11:47.724: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 16:11:47.724: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 16:16:56.331: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 16:20:16.637: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 16:20:16.637: [INFO] Profiles total count: 1
+2026-11-12 16:20:16.637: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-12 16:20:16.637: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 16:20:16.637: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-12 16:20:16.637: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 16:20:16.637: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 16:20:16.637: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 16:20:16.637: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 16:20:47.375: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 16:25:33.365: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 16:25:33.365: [INFO] Profiles total count: 1
+2026-11-12 16:25:33.365: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-12 16:25:33.365: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 16:25:33.365: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-12 16:25:33.365: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 16:25:33.365: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 16:25:33.365: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 16:25:33.365: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 17:15:47.948: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 11:22:36.667: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 11:22:36.667: [INFO] Profiles total count: 1
+2026-11-13 11:22:36.667: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-13 11:22:36.667: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 11:22:36.667: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-13 11:22:36.667: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 11:22:36.667: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 11:22:36.667: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 11:22:36.667: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 12:26:14.761: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 12:38:31.868: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 12:38:31.868: [INFO] Profiles total count: 1
+2026-11-13 12:38:31.868: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-13 12:38:31.868: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 12:38:31.868: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-13 12:38:31.868: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 12:38:31.868: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 12:38:31.868: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 12:38:31.868: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 12:38:31.945: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 12:38:36.684: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 12:38:36.684: [INFO] Profiles total count: 1
+2026-11-13 12:38:36.684: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-13 12:38:36.684: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 12:38:36.684: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-13 12:38:36.684: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 12:38:36.684: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 12:38:36.684: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 12:38:36.684: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 12:38:36.758: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 12:43:07.606: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 12:43:07.606: [INFO] Profiles total count: 1
+2026-11-13 12:43:07.606: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-13 12:43:07.606: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 12:43:07.606: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-13 12:43:07.606: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 12:43:07.606: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 12:43:07.606: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 12:43:07.606: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 12:43:10.943: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 12:44:02.821: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 12:44:02.821: [INFO] Profiles total count: 1
+2026-11-13 12:44:02.821: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-13 12:44:02.821: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 12:44:02.821: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-13 12:44:02.821: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 12:44:02.821: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 12:44:02.821: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 12:44:02.821: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 12:44:07.291: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 13:17:27.179: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 13:17:27.179: [INFO] Profiles total count: 1
+2026-11-13 13:17:27.179: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-13 13:17:27.179: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 13:17:27.179: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-13 13:17:27.179: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 13:17:27.179: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 13:17:27.179: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 13:17:27.179: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 13:17:27.339: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 13:19:14.840: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 13:19:14.840: [INFO] Profiles total count: 1
+2026-11-13 13:19:14.840: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-13 13:19:14.840: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 13:19:14.840: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-13 13:19:14.840: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 13:19:14.840: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 13:19:14.840: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 13:19:14.840: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 13:49:39.000: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 09:57:47.582: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 09:57:47.582: [INFO] Profiles total count: 1
+2026-11-14 09:57:47.582: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-14 09:57:47.582: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 09:57:47.582: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-14 09:57:47.582: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 09:57:47.582: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 09:57:47.582: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 09:57:47.583: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 10:37:18.201: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 11:06:23.165: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 11:06:23.165: [INFO] Profiles total count: 1
+2026-11-14 11:06:23.165: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-14 11:06:23.165: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 11:06:23.165: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-14 11:06:23.165: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 11:06:23.165: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 11:06:23.165: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 11:06:23.165: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 11:07:28.647: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 11:34:37.559: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 11:34:37.559: [INFO] Profiles total count: 1
+2026-11-14 11:34:37.559: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-14 11:34:37.559: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 11:34:37.559: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-14 11:34:37.559: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 11:34:37.559: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 11:34:37.559: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 11:34:37.559: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 11:34:37.753: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 11:56:42.485: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 11:56:42.485: [INFO] Profiles total count: 1
+2026-11-14 11:56:42.485: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-14 11:56:42.485: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 11:56:42.485: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-14 11:56:42.485: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 11:56:42.485: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 11:56:42.485: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 11:56:42.485: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 12:08:11.106: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 12:09:57.688: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 12:09:57.688: [INFO] Profiles total count: 1
+2026-11-14 12:09:57.688: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-14 12:09:57.688: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 12:09:57.688: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-14 12:09:57.688: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 12:09:57.688: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 12:09:57.688: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 12:09:57.688: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 12:09:57.761: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 12:19:50.607: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 12:19:50.607: [INFO] Profiles total count: 1
+2026-11-14 12:19:50.607: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-14 12:19:50.607: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 12:19:50.607: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-14 12:19:50.607: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 12:19:50.607: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 12:19:50.607: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 12:19:50.607: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 12:54:06.606: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 11:12:59.224: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 11:12:59.224: [INFO] Profiles total count: 1
+2026-11-17 11:12:59.225: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-17 11:12:59.225: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 11:12:59.225: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-17 11:12:59.225: [INFO] OnDoneLoading sync enabled: 0
+2026-11-17 11:12:59.225: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-17 11:12:59.225: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-17 11:12:59.225: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 11:13:01.961: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 11:13:03.188: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 11:13:03.188: [INFO] Profiles total count: 1
+2026-11-17 11:13:03.188: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-17 11:13:03.188: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 11:13:03.188: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-17 11:13:03.188: [INFO] OnDoneLoading sync enabled: 0
+2026-11-17 11:13:03.188: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-17 11:13:03.188: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-17 11:13:03.188: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 11:13:03.264: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 11:16:00.942: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 11:16:00.942: [INFO] Profiles total count: 1
+2026-11-17 11:16:00.942: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-17 11:16:00.942: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 11:16:00.942: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-17 11:16:00.942: [INFO] OnDoneLoading sync enabled: 0
+2026-11-17 11:16:00.942: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-17 11:16:00.942: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-17 11:16:00.942: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 11:16:05.873: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 11:48:08.230: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 11:48:08.230: [INFO] Profiles total count: 1
+2026-11-17 11:48:08.230: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-17 11:48:08.230: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 11:48:08.230: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-05T12:28:59.750Z
+2026-11-17 11:48:08.230: [INFO] OnDoneLoading sync enabled: 0
+2026-11-17 11:48:08.230: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-17 11:48:08.230: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-17 11:48:08.230: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 12:53:32.003: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 15:42:50.032: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 15:42:50.032: [INFO] Profiles total count: 1
+2026-11-17 15:42:50.032: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-17T12:53:26.421Z
+2026-11-17 15:42:50.032: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 15:42:50.032: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-17T12:53:26.421Z
+2026-11-17 15:42:50.032: [INFO] OnDoneLoading sync enabled: 0
+2026-11-17 15:42:50.032: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-17 15:42:50.032: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-17 15:42:50.032: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 15:42:54.617: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 16:08:13.783: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 16:08:13.783: [INFO] Profiles total count: 1
+2026-11-17 16:08:13.783: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-17T15:42:51.464Z
+2026-11-17 16:08:13.783: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 16:08:13.783: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-17T15:42:51.464Z
+2026-11-17 16:08:13.783: [INFO] OnDoneLoading sync enabled: 0
+2026-11-17 16:08:13.783: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-17 16:08:13.783: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-17 16:08:13.783: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 16:15:27.738: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 16:15:39.673: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 16:15:39.673: [INFO] Profiles total count: 1
+2026-11-17 16:15:39.673: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-17T16:15:01.300Z
+2026-11-17 16:15:39.673: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 16:15:39.674: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-17T16:15:01.300Z
+2026-11-17 16:15:39.674: [INFO] OnDoneLoading sync enabled: 0
+2026-11-17 16:15:39.674: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-17 16:15:39.674: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-17 16:15:39.674: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 16:15:44.339: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 16:18:55.810: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 16:18:55.810: [INFO] Profiles total count: 1
+2026-11-17 16:18:55.810: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-17T16:15:01.300Z
+2026-11-17 16:18:55.810: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 16:18:55.810: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-17T16:15:01.300Z
+2026-11-17 16:18:55.810: [INFO] OnDoneLoading sync enabled: 0
+2026-11-17 16:18:55.810: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-17 16:18:55.810: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-17 16:18:55.810: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 16:19:02.287: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-17 16:19:25.899: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 16:19:25.899: [INFO] Profiles total count: 1
+2026-11-17 16:19:25.899: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-17T16:15:01.300Z
+2026-11-17 16:19:25.899: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-17 16:19:25.899: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-17T16:15:01.300Z
+2026-11-17 16:19:25.899: [INFO] OnDoneLoading sync enabled: 0
+2026-11-17 16:19:25.899: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-17 16:19:25.899: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-17 16:19:25.899: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-18 04:08:00.654: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-18 11:38:33.099: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-18 11:38:33.099: [INFO] Profiles total count: 1
+2026-11-18 11:38:33.099: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-18 11:38:33.099: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-18 11:38:33.099: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-18 11:38:33.099: [INFO] OnDoneLoading sync enabled: 0
+2026-11-18 11:38:33.099: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-18 11:38:33.099: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-18 11:38:33.099: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-18 12:04:17.367: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-18 12:07:52.100: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-18 12:07:52.100: [INFO] Profiles total count: 1
+2026-11-18 12:07:52.100: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-18 12:07:52.100: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-18 12:07:52.100: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-18 12:07:52.100: [INFO] OnDoneLoading sync enabled: 0
+2026-11-18 12:07:52.100: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-18 12:07:52.100: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-18 12:07:52.100: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-18 12:38:42.427: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-19 12:10:37.467: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-19 12:10:37.467: [INFO] Profiles total count: 1
+2026-11-19 12:10:37.467: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-19 12:10:37.467: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-19 12:10:37.467: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-19 12:10:37.467: [INFO] OnDoneLoading sync enabled: 0
+2026-11-19 12:10:37.467: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-19 12:10:37.467: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-19 12:10:37.467: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-19 12:38:47.554: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-19 14:29:56.078: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-19 14:29:56.078: [INFO] Profiles total count: 1
+2026-11-19 14:29:56.078: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-19 14:29:56.078: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-19 14:29:56.078: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-19 14:29:56.078: [INFO] OnDoneLoading sync enabled: 0
+2026-11-19 14:29:56.078: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-19 14:29:56.078: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-19 14:29:56.078: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-19 14:29:56.167: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-19 14:30:58.512: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-19 14:30:58.512: [INFO] Profiles total count: 1
+2026-11-19 14:30:58.512: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-19 14:30:58.512: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-19 14:30:58.512: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-19 14:30:58.512: [INFO] OnDoneLoading sync enabled: 0
+2026-11-19 14:30:58.512: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-19 14:30:58.512: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-19 14:30:58.512: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-19 14:30:58.576: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-19 14:32:12.494: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-19 14:32:12.494: [INFO] Profiles total count: 1
+2026-11-19 14:32:12.494: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-19 14:32:12.494: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-19 14:32:12.494: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-19 14:32:12.494: [INFO] OnDoneLoading sync enabled: 0
+2026-11-19 14:32:12.494: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-19 14:32:12.494: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-19 14:32:12.494: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-19 14:32:12.632: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-19 14:32:34.881: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-19 14:32:34.881: [INFO] Profiles total count: 1
+2026-11-19 14:32:34.881: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-19 14:32:34.881: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-19 14:32:34.881: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-19 14:32:34.881: [INFO] OnDoneLoading sync enabled: 0
+2026-11-19 14:32:34.881: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-19 14:32:34.881: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-19 14:32:34.881: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-19 14:32:37.158: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-21 04:24:19.417: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-21 04:24:19.417: [INFO] Profiles total count: 1
+2026-11-21 04:24:19.417: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-21 04:24:19.417: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-21 04:24:19.417: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-21 04:24:19.417: [INFO] OnDoneLoading sync enabled: 0
+2026-11-21 04:24:19.418: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-21 04:24:19.418: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-21 04:24:19.418: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-21 04:24:36.011: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-23 12:03:03.535: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-23 12:03:03.535: [INFO] Profiles total count: 1
+2026-11-23 12:03:03.535: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-23 12:03:03.535: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-23 12:03:03.535: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-23 12:03:03.535: [INFO] OnDoneLoading sync enabled: 0
+2026-11-23 12:03:03.535: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-23 12:03:03.535: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-23 12:03:03.535: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-23 12:47:10.985: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-23 16:09:21.934: [INFO] CurrentProfilePath: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-23 16:09:21.934: [INFO] Profiles total count: 1
+2026-11-23 16:09:21.934: [INFO] Profile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-23 16:09:21.934: [INFO] LastUsedProfileDir: C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-23 16:09:21.934: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Dell\OneDrive\Documents\Vtiger\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-18T03:58:38.969Z
+2026-11-23 16:09:21.934: [INFO] OnDoneLoading sync enabled: 0
+2026-11-23 16:09:21.934: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-23 16:09:21.934: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-23 16:09:21.934: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-23 16:12:01.632: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

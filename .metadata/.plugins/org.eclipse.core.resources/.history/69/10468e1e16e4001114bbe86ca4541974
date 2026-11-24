@@ -1,0 +1,105 @@
+
+package com.crm.Vtiger.GenericLibrary;
+
+import java.io.IOException;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.Reporter;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Optional;
+import org.testng.annotations.Parameters;
+
+import ObjectRepository.HomePage;
+import ObjectRepository.LoginPage;
+
+public class BaseClass {
+
+    public static ThreadLocal<WebDriver> d =
+            new ThreadLocal<WebDriver>();
+
+    public SeleniumUtility s = new SeleniumUtility();
+    FileUtility f = new FileUtility();
+
+    @BeforeSuite
+    public void connectToDataBase() {
+        Reporter.log("Connected to database successfully", true);
+    }
+
+    @Parameters("browser")
+    @BeforeMethod
+    public void launchBrowser(@Optional("chrome") String browser)
+            throws IOException {
+
+        WebDriver driver;
+
+        if (browser.equalsIgnoreCase("chrome")) {
+            driver = new ChromeDriver();
+        }
+        else if (browser.equalsIgnoreCase("edge")) {
+            driver = new EdgeDriver();
+        }
+        else if (browser.equalsIgnoreCase("firefox")) {
+            driver = new FirefoxDriver();
+        }
+        else {
+            driver = new ChromeDriver();
+        }
+
+        // Store browser instance for current thread
+        d.set(driver);
+
+        s.maximizeBrowser(d.get());
+        s.implcitlyWait(d.get());
+
+        String URL = f.readDataFromProperities("url");
+
+        s.navToApp(d.get(), URL);
+
+        Reporter.log("Browser launched successfully", true);
+    }
+
+    @BeforeMethod(dependsOnMethods = "launchBrowser")
+    public void loginToVTiger() throws IOException {
+
+        String un = f.readDataFromProperities("username");
+        String pw = f.readDataFromProperities("password");
+
+        LoginPage l = new LoginPage(d.get());
+
+        l.LoginToVTiger(d.get(), un, pw);
+
+        Reporter.log("Login successful", true);
+    }
+
+    @AfterMethod
+    public void logoutVTiger() {
+
+        HomePage h = new HomePage(d.get());
+
+        h.LogOutFromVTiger(d.get());
+
+        Reporter.log("Logout successful", true);
+    }
+
+    @AfterMethod(dependsOnMethods = "logoutVTiger", alwaysRun = true)
+    public void closeBrowser() {
+
+        if (d.get() != null) {
+            d.get().quit();
+            d.remove();
+        }
+
+        Reporter.log("Browser closed successfully", true);
+    }
+
+    @AfterSuite
+    public void disconnectDB() {
+        Reporter.log("Database disconnected successfully", true);
+    }
+}

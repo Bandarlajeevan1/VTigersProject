@@ -1,0 +1,31 @@
+package com.crm.Vtiger.Practice;
+
+import java.util.ArrayList;
+
+import org.testng.annotations.Test;
+
+import com.crm.Vtiger.GenericLibrary.BaseClass;
+
+public class Demo extends BaseClass {
+	public static void main(String[] args) {
+		ArrayList<Integer> a= new ArrayList<Integer>();
+		a.add(10);
+		a.add(20);
+		a.add(30);
+		ArrayList<Integer> a1=new ArrayList<Integer>();
+		a1.add(40);
+		a1.add(50);
+		boolean a3 = a.addAll(a1);
+		System.out.println(a);
+		
+		String s="jee";
+		String s2="van";
+		String rev="";
+		System.out.println(s.concat(s2));
+		for(int i=s.length()-1;i>=0;i--) {
+			rev=rev+s.charAt(i);
+			
+		}
+		System.out.println(rev);
+	}
+}

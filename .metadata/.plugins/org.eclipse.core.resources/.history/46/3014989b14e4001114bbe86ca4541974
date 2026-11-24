@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="tests">
+  <test thread-count="2" name="ParallelExecution1">
+  <parameter name="browser"></parameter>
+    <classes>
+      <class name="OrganizationTest.Dummy"/>
+      <class name="OrganizationTest.Dummy2"/>
+    </classes>
+  </test> <!-- ParallelExecution -->
+  <test thread-count="1" name="ParallelExecution2">
+  <parameter name="browser"></parameter>
+    <classes>
+      <class name="OrganizationTest.OrganizationTests"/>
+      
+    </classes>
+  </test>
+</suite> <!-- Suite -->

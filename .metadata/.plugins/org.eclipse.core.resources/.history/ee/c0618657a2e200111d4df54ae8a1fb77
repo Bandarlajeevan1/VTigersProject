@@ -1,0 +1,24 @@
+package OrganizationTest;
+
+import org.openqa.selenium.By;
+import org.testng.annotations.Listeners;
+import org.testng.annotations.Test;
+
+import com.crm.Vtiger.GenericLibrary.BaseClass;
+import com.crm.Vtiger.GenericLibrary.FileUtility;
+import com.crm.Vtiger.GenericLibrary.ITestListenerImplementation;
+
+import ObjectRepository.HomePage;
+import ObjectRepository.OrganizationPage;
+@Listeners(ITestListenerImplementation.class)
+public class organizationTests extends BaseClass {
+	@Test
+	public void clickOnOrganization() {
+		HomePage h=new HomePage(d);
+		h.getOrgLink().click();
+		OrganizationPage op=new OrganizationPage(d);
+		op.getPlusButton().click();
+		FileUtility f=new FileUtility();
+		
+	}
+}

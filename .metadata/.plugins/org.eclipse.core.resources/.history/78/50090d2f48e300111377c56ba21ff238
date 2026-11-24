@@ -1,0 +1,74 @@
+package OrganizationTest;
+
+import java.io.IOException;
+
+import org.apache.poi.EncryptedDocumentException;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.testng.annotations.Listeners;
+import org.testng.annotations.Test;
+
+import com.crm.Vtiger.GenericLibrary.BaseClass;
+import com.crm.Vtiger.GenericLibrary.FileUtility;
+import com.crm.Vtiger.GenericLibrary.ITestListenerImplementation;
+import com.crm.Vtiger.GenericLibrary.SeleniumUtility;
+
+import ObjectRepository.HomePage;
+import ObjectRepository.OrganizationPage;
+@Listeners(ITestListenerImplementation.class)
+public class organizationTests extends BaseClass {
+	@Test
+	public void clickOnOrganization() throws EncryptedDocumentException, IOException, InterruptedException {
+		HomePage h=new HomePage(d);
+		h.getOrgLink().click();
+		OrganizationPage op=new OrganizationPage(d);
+		op.getPlusButton().click();
+		
+		FileUtility f=new FileUtility();
+		String name = f.readDataFromExcelString("OrganizationDetails", 1, 1);
+		op.getOrgName().sendKeys(name);
+		
+		String email = f.readDataFromExcelString("OrganizationDetails", 1, 2);
+		op.getEmailTbx().sendKeys(email);
+		
+		WebElement industry=op.getIndustryDrop();
+		SeleniumUtility s=new SeleniumUtility();
+		s.selectOptionUsingValue(industry,"Education");
+		
+		WebElement rating = op.getRatingDrop();
+		s.selectOptionUsingValue(rating,"Active");
+		
+		WebElement type = op.getTypeDrop();
+		s.selectOptionUsingValue(type, "Competitor");
+		
+		String billAdd = f.readDataFromExcelString("OrganizationDetails", 1, 3);
+		op.getBillstreetTxb().sendKeys(billAdd);
+		
+		String shipAdd = f.readDataFromExcelString("OrganizationDetails", 1, 4);
+		op.getShipstreetTxd().sendKeys(shipAdd);
+		
+		String billCity = f.readDataFromExcelString("OrganizationDetails", 1, 5);
+		op.getBillingCity().sendKeys(billCity);
+		
+		String shipCity = f.readDataFromExcelString("OrganizationDetails", 1, 6);
+		op.getShippingCity().sendKeys(shipCity);
+		
+		String billState = f.readDataFromExcelString("OrganizationDetails", 1, 7);
+		op.getBillingState().sendKeys(billState);
+		
+		String shipState= f.readDataFromExcelString("OrganizationDetails", 1, 8);
+		op.getShippingState().sendKeys(shipState);
+		
+		String billCountry = f.readDataFromExcelString("OrganizationDetails", 1, 9);
+		op.getBillingCountry().sendKeys(billCountry);
+		
+		String shipCountry = f.readDataFromExcelString("OrganizationDetails", 1, 10);
+		op.getShippingCountry().sendKeys(shipCountry);
+				
+		String description = f.readDataFromExcelString("OrganizationDetails", 1, 11);
+		op.getDescriptionAdd().sendKeys(description);
+		
+		op.getSaveBtn().click();
+		Thread.sleep(5000);
+	}
+}

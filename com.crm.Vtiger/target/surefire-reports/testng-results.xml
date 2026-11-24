@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[connected to database successfully]]>
+    </line>
+    <line>
+      <![CDATA[launched browser successfully]]>
+    </line>
+    <line>
+      <![CDATA[login successfull]]>
+    </line>
+    <line>
+      <![CDATA[logout successfull]]>
+    </line>
+    <line>
+      <![CDATA[browser closed successfully]]>
+    </line>
+    <line>
+      <![CDATA[data based disconnected successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-11-23T21:46:05 IST" name="Surefire suite" finished-at="2026-11-23T21:46:31 IST" duration-ms="25851">
+    <groups>
+    </groups>
+    <test started-at="2026-11-23T21:46:05 IST" name="Surefire test" finished-at="2026-11-23T21:46:31 IST" duration-ms="25851">
+      <class name="OrganizationTest.OrganizationTest">
+        <test-method is-config="true" signature="connectToDataBase()[pri:0, instance:OrganizationTest.OrganizationTest@30ee2816]" started-at="2026-11-23T21:46:05 IST" name="connectToDataBase" finished-at="2026-11-23T21:46:05 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[connected to database successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- connectToDataBase -->
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:OrganizationTest.OrganizationTest@30ee2816]" started-at="2026-11-23T21:46:05 IST" name="launchBrowser" finished-at="2026-11-23T21:46:07 IST" duration-ms="2357" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[launched browser successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginToVTiger()[pri:0, instance:OrganizationTest.OrganizationTest@30ee2816]" started-at="2026-11-23T21:46:07 IST" name="loginToVTiger" finished-at="2026-11-23T21:46:11 IST" duration-ms="3952" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginToVTiger -->
+        <test-method signature="clickOnOrganization()[pri:0, instance:OrganizationTest.OrganizationTest@30ee2816]" started-at="2026-11-23T21:46:11 IST" name="clickOnOrganization" finished-at="2026-11-23T21:46:28 IST" duration-ms="16635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnOrganization -->
+        <test-method is-config="true" signature="logoutVTiger()[pri:0, instance:OrganizationTest.OrganizationTest@30ee2816]" started-at="2026-11-23T21:46:28 IST" name="logoutVTiger" finished-at="2026-11-23T21:46:30 IST" duration-ms="2352" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutVTiger -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:OrganizationTest.OrganizationTest@30ee2816]" started-at="2026-11-23T21:46:30 IST" name="closeBrowser" finished-at="2026-11-23T21:46:31 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="disconnectDB()[pri:0, instance:OrganizationTest.OrganizationTest@30ee2816]" started-at="2026-11-23T21:46:31 IST" name="disconnectDB" finished-at="2026-11-23T21:46:31 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[data based disconnected successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- disconnectDB -->
+      </class> <!-- OrganizationTest.OrganizationTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,78 @@
+package com.crm.Vtiger.GenericLibrary;
+
+import java.io.IOException;
+import java.time.Duration;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.testng.Reporter;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Optional;
+import org.testng.annotations.Parameters;
+
+import com.beust.jcommander.Parameter;
+
+import ObjectRepository.HomePage;
+import ObjectRepository.LoginPage;
+
+public class BaseClass {
+	public static ThreadLocal<WebDriver> d =
+            new ThreadLocal<WebDriver>();
+	public SeleniumUtility s=new SeleniumUtility();
+	FileUtility f= new FileUtility();
+	@BeforeSuite
+	public void connectToDataBase() {
+		Reporter.log("connected to database successfully",true);
+	}
+	@Parameters("browser")
+	@BeforeTest
+	public void launchBrowser(@Optional("chrome") String browser) throws IOException {
+		if(browser.equals("chrome")) {
+			d=new ChromeDriver();
+		}else if(browser.equals("edge")) {
+			d=new EdgeDriver();
+		}else if(browser.equals("firefox")) {
+			d=new FirefoxDriver();
+		}else {
+			d=new ChromeDriver();
+		}
+		s.maximizeBrowser(d);
+		s.implcitlyWait(d);
+		String URL = f.readDataFromProperities("url");
+		s.navToApp(d, URL);
+		Reporter.log("launched browser successfully",true);
+	}
+	@BeforeMethod
+	public void loginToVTiger() throws IOException {
+		String un = f.readDataFromProperities("username");
+		String pw=f.readDataFromProperities("password");
+		LoginPage l=new LoginPage(d);
+		l.LoginToVTiger(d, un, pw);
+		Reporter.log("login successfull",true);
+	}
+	@AfterMethod
+	public void logoutVTiger() {
+		HomePage h=new HomePage(d);
+		h.LogOutFromVTiger(d);
+		Reporter.log("logout successfull",true);
+	}
+	@AfterTest
+	public void closeBrowser() {
+		s.CloseBrowser(d);
+		Reporter.log("browser closed successfully",true);
+	}
+	@AfterSuite
+	public void disconnectDB() {
+		Reporter.log("data based disconnected successfully",true);
+	}
+}

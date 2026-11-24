@@ -1,0 +1,147 @@
+package ObjectRepository;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import net.bytebuddy.asm.MemberSubstitution.FieldValue;
+
+public class OrganizationPage {
+	@FindBy(xpath = "//img[@alt='Create Organization...']")
+	private WebElement plusButton;
+	
+	@FindBy(name="accountname")
+	private WebElement orgName;
+	
+	@FindBy(xpath = "//td[text()='Email ']/following-sibling::td/child::input")
+	private WebElement emailTbx;
+	
+	@FindBy(name = "industry")
+	private WebElement industryDrop;
+	
+	@FindBy(name = "rating")
+	private WebElement ratingDrop;
+	
+	@FindBy(name = "accounttype")
+	private WebElement typeDrop;
+
+	@FindBy(name = "bill_street")
+	private WebElement billstreetTxb;
+	
+	@FindBy(name = "ship_street")
+	private WebElement shipstreetTxd;
+	
+	@FindBy(name = "bill_city")
+	private WebElement billingCity;
+	
+	@FindBy(name = "ship_city")
+	private WebElement shippingCity;
+	
+	@FindBy(id="bill_state")
+	private WebElement billingState;
+	
+	@FindBy(id = "ship_state")
+	private WebElement shippingState;
+	
+	@FindBy(name = "bill_code")
+	private WebElement billingPostalCode;
+	
+	@FindBy(name = "ship_code")
+	private WebElement ShippingPostalCode;
+	
+	@FindBy(name = "bill_country")
+	private WebElement billingCountry;
+	
+	@FindBy(name = "ship_country")
+	private WebElement shippingCountry;
+	
+	@FindBy(name = "description")
+	private WebElement descriptionAdd;
+	
+	@FindBy(xpath = "//input[@title='Save [Alt+S]']")
+	private WebElement saveBtn;
+	
+	@FindBy(xpath = "//input[@title='Cancel [Alt+X]']")
+	private WebElement cancelBtn;
+	
+	public OrganizationPage(WebDriver d) {
+		PageFactory.initElements(d, this);
+	}
+	
+	public WebElement getOrgName() {
+		return orgName;
+	}
+	
+	public WebElement getEmailTbx() {
+		return emailTbx;
+	}
+	
+	public WebElement getIndustryDrop() {
+		return industryDrop;
+	}
+	
+	public WebElement getRatingDrop() {
+		return ratingDrop;
+	}
+	
+	public WebElement getBillstreetTxb() {
+		return billstreetTxb;
+	}
+	
+	public WebElement getShipstreetTxd() {
+		return shipstreetTxd;
+	}
+	
+	public WebElement getBillingCity() {
+		return billingCity;
+	}
+	
+	public WebElement getShippingCity() {
+		return shippingCity;
+	}
+	
+	public WebElement getBillingState() {
+		return billingState;
+	}
+	
+	public WebElement getShippingState() {
+		return shippingState;
+	}
+	
+	public WebElement getBillingPostalCode() {
+		return billingPostalCode;
+	}
+	
+	public WebElement getShippingPostalCode() {
+		return ShippingPostalCode;
+	}
+	
+	public WebElement getBillingCountry() {
+		return billingCountry;
+	}
+	
+	public WebElement getShippingCountry() {
+		return shippingCountry;
+	}
+	
+	public WebElement getDescriptionAdd() {
+		return descriptionAdd;
+	}
+	
+	public WebElement getSaveBtn() {
+		return saveBtn;
+	}
+	
+	public WebElement getCancelBtn() {
+		return cancelBtn;
+	}
+	
+	public WebElement getPlusButton() {
+		return plusButton;
+	}
+
+	public WebElement getTypeDrop() {
+		return typeDrop;
+	}
+}
